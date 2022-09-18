@@ -11,8 +11,7 @@
 <b>Email</b>: baibhav.kumar.122003@gmail.com
 <h4>You can also connect with me on following platforms:</h4>
 <a href = "https://www.linkedin.com/in/baibhav-kumar-a22403228/"><img src = "https://img.icons8.com/color/452/linkedin.png" width=50 height = 50></a>
-<a href = "https://twitter.com/BAIBHAV16816791"><img src = "https://img.icons8.com/fluency/2x/twitter.png" width=50 height = 50></a>
-<!-- <b>LinkedIn</b>: <br> -->
+<a href = "https://twitter.com/baibhav_122003"><img src = "https://img.icons8.com/fluency/2x/twitter.png" width=50 height = 50></a>
 
 ---
 
