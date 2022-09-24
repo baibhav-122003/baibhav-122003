@@ -1,7 +1,11 @@
-- 👋 Hi, I’m Baibhav Kumar, Student Developer, Batch of 2025-IT, IIIT Bhubaneswar
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Algorithm Design and Web Development
-- 💞️ I’m looking to collaborate on building interesting Web Applications
+<h1>Namaste!<img src = "https://img.icons8.com/external-icongeek26-outline-gradient-icongeek26/2x/external-namaste-india-icongeek26-outline-gradient-icongeek26.png" width = 40 height 40></h1>
+<ul>
+  <li>👋 I’m Baibhav Kumar, Student Developer, Batch of 2025-IT, IIIT Bhubaneswar</li>
+  <li>👀 I’m interested in Software Development</li>
+  <li>🌱 I’m currently learning Algorithm Design and Web Development</li>
+  <li>💞️ I’m looking to collaborate on building interesting Web Applications</li>
+</ul>
+
 ---
 <h2>Other programming endeavors:</h2>
 <a href = "https://leetcode.com/baibhav_122003/"><img src = "https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width = 30 height = 30></a>
