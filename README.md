@@ -3,7 +3,7 @@
   <li>👋 I’m Baibhav Kumar, Student Developer, Batch of 2025-IT, IIIT Bhubaneswar</li>
   <li>👀 I’m interested in Software Development</li>
   <li>🌱 I’m currently learning Algorithm Design and Web Development</li>
-  <li>💞️ I’m looking to collaborate on building interesting Web Applications</li>
+  <li>💞️ I’m looking to collaborate on building Web Applications</li>
 </ul>
 
 ---
@@ -12,8 +12,8 @@
 <a href = "https://codeforces.com/profile/baibhav-122003"><img src = "https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" width = 30 height = 30></a>
 <a href = "https://www.codechef.com/users/baibhav122003"><img src = "https://img.icons8.com/fluency/2x/codechef.png" width = 30 height = 30></a>
 <h2>Let's Connect</h2>
-<a href = "mailto:baibhav.kumar.122003@gmail.com"><img src = "https://img.icons8.com/color/344/gmail--v1.png" width=30 height = 30></a>
 <a href = "https://www.linkedin.com/in/baibhav-kumar-a22403228/"><img src = "https://img.icons8.com/color/452/linkedin.png" width=30 height = 30></a>
+<a href = "mailto:baibhav.kumar.122003@gmail.com"><img src = "https://img.icons8.com/color/344/gmail--v1.png" width=30 height = 30></a>
 <a href = "https://twitter.com/baibhav_122003"><img src = "https://img.icons8.com/fluency/2x/twitter.png" width=30 height = 30></a>
 
 ---
